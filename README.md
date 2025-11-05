@@ -1,6 +1,8 @@
 text
 # Automobile Sales Analysis Using Data Visualization
 
+[Open the Jupyter Notebook: Automobile Sales Analysis.ipynb](Automobile%20Sales%20Analysis.ipynb)
+
 ## 🚗 Project Overview
 This project involves **creating visualizations using Matplotlib, Seaborn, and Folium** to analyze historical automobile sales data during recession periods. The goal is to provide insights into how economic downturns impacted automotive sales patterns for XYZAutomotives.
 
@@ -28,7 +30,7 @@ The dataset contains detailed historical data on automobile sales and several ec
 - **Month**: Extracted month from Date  
 - **Year**: Extracted year from Date
 
-## 📊 Key Analytical Focus
+## 📊 Key Analytical Focus 
 - Understand sales fluctuations during recessions vs. normal periods  
 - Compare sales trends by vehicle type and economic factors  
 - Explore seasonality and advertising impacts on sales  
